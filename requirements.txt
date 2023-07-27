@@ -1,0 +1,6 @@
+streamlit
+sklearn
+nltk
+re
+collections
+pickle
